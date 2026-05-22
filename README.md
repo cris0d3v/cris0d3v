@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cris0d3v&label=Visitantes&color=00e676&style=for-the-badge" alt="Visitor Counter" />
   <a href="https://linkedin.com/in/cristianmartinezxz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
