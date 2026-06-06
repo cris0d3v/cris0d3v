@@ -1,72 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=00E676&center=true&vCenter=true&width=600&height=60&lines=Cristian+%7C+Backend+Developer;Arquitecto+de+Soluciones+Escalables;NestJS+%E2%80%A2+Spring+Boot+%E2%80%A2+Laravel" alt="Typing SVG" />
-</p>
+# ¡Hola, caminante del internet! 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/cristianmartinezxz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cristianm4rtinez.a@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Si has llegado hasta aquí y me has dado *follow* sin conocerme (¡sí, les estoy hablando a ustedes, bots de scraping e ingenieros del otro lado del mundo! 🌍), ¡bienvenidos a mi rincón de código!
 
-<br />
+## 🛠️ ¿Quién soy?
+Mi nombre es **Cristian Martínez** (cris0d3v). Soy **Backend Developer** y tengo una filosofía de vida muy clara en este ecosistema digital:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdmdzNWZqdXZ3aHBiaTUzNHo3cmgxbWF6Nzd6ZzAxbG93MTJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius: 12px;" alt="Backend Server Workflow">
-</p>
-
-<br />
+> **"Dev up and AI slop down."** 
+> *Menos contenido basura generado por IA, más código real, lógica sólida y desarrollo de verdad.*
 
 ---
 
-### ⚡ Sobre mí
-
-Soy **TSU en Informática**, egresado del **IUJO** (Instituto Universitario Jesús Obrero), ubicado en Caracas, Venezuela 🇻🇪. Apasionado por el **Desarrollo Backend y la Arquitectura de Software**, me especializo en diseñar lógica del lado del servidor, optimizar bases de datos y construir APIs robustas y escalables.
-
-Manejo con fluidez entornos corporativos y modernos basados en **Node.js (TypeScript), Java y PHP**, apoyándome en contenedores Docker y entornos Linux para despliegues eficientes y entornos de desarrollo reproducibles.
-
----
-
-### 🛠️ Ecosistema Backend & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,spring,laravel,ts,java,php,js,postgres,mysql,mongodb,supabase,docker,git,linux,aws" alt="Tech Stack" />
-</p>
+## 🚀 En qué estoy trabajando:
+* 💻 Construyendo arquitecturas Backend limpias, rápidas y que no se caigan a los dos días.
+* 🛡️ Manteniendo mi feed libre de "slop" tecnológico.
+* ⏳ Sobreviviendo a los algoritmos extraños de GitHub que me traen visitas inesperadas.
 
 ---
 
-### 🏆 Logros de Código
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cris0d3v&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 Métricas de Rendimiento
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cris0d3v&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📬 ¿Por qué estás aquí? (Elige tu propia aventura)
+* **¿Eres un bot o una cuenta de spam?** Disfruta el paisaje, pero no rompas nada. 🤖
+* **¿Eres un reclutador internacional?** Echa un vistazo a mis repositorios; hay talento real aquí. 💼
+* **¿Eres un desarrollador real?** ¡Pasa, tómate un café ☕ y hablemos de código de verdad!
 
 ---
 
-### 🔥 Flujo de Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cris0d3v&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <b>✨ &nbsp;Gracias por visitar mi perfil &nbsp;✨</b>
-  <br />
-  <sub>Siempre abierto a colaborar en proyectos de arquitectura backend y optimización de datos.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=120&section=footer" alt="Footer Wave" />
-</p>
+*Nota: Cuenta creada recientemente, pero el código lleva ya un buen rato cocinándose.* 😉
