@@ -25,3 +25,9 @@ Mi nombre es **Cristian Martínez** (cris0d3v). Soy **Backend Developer** y teng
 ---
 
 *Nota: Cuenta creada recientemente, pero el código lleva ya un buen rato cocinándose.* 😉
+
+Proximamente te traere una guía a Javascript, estrutura de datos, node.js, introducción al frontend y backend, lib react y muchas cosas más. Hasta que consiga un trabajo donde si busquen algún desarrollador.
+
+TY
+
+Cambio y fuera...
