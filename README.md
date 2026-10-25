@@ -1,4 +1,4 @@
-![banner_profile_cris0d3v](./images/hero_images_cris0d3v_v2.jpg)
+![banner_profile_cris0d3v](./images/hero_images_cris0d3v_v3.jpg)
 
 <h1 align="center">Hi, I'm Cristian Martínez</h1>
 
