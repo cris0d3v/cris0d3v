@@ -1,4 +1,4 @@
-![banner_profile_cris0d3v](./images/hero_images_cris0d3v.jpg)
+![banner_profile_cris0d3v](./images/hero_images_cris0d3v_v2.jpg)
 
 <h1 align="center">Hi, I'm Cristian Martínez</h1>
 
@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/cris0d3v">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ## 👨‍💻 About Me
