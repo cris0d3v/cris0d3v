@@ -37,6 +37,8 @@ I work across frontend development, backend services, database design and busine
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-009118?style=flat-square&logo=django&logoColor=white)
+
 
 **Databases and Infrastructure**
 
