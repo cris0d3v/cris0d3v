@@ -76,6 +76,10 @@ I use AI coding tools to support software development, explore solutions, and im
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Orca](https://img.shields.io/badge/Orca-000000?style=flat-square&logo=orca&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4B32C3?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-4B32C3?style=flat-square&logo=robotframework&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ## 🌐 Languages
 
